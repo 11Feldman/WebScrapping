@@ -1,3 +1,4 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "c:\\Users\\dfd\\Desktop\\Ari\\14. Programacion propia\\Web Scrapping\\venv\\Scripts\\python.exe"
 }
