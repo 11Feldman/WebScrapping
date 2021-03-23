@@ -27,7 +27,7 @@ td = soup.find_all('td', class_='lateral2')
 
 tabla = list()
 count = 0
-for i in td:
+for a in td:
     if count < 5:
         tabla.append(i.text)
     else:
