@@ -29,7 +29,7 @@ tabla = list()
 count = 0
 for a in td:
     if count < 5:
-        tabla.append(i.text)
+        tabla.append(a.text)
     else:
         break
     count += 1
